@@ -1,6 +1,8 @@
 InjectLogTagPlugin
 ==================
 
+[![Circle CI](https://circleci.com/gh/tomorrowkey/InjectLogTagPlugin.svg?style=svg)](https://circleci.com/gh/tomorrowkey/InjectLogTagPlugin)
+
 Inject Log Tag Plugin is a plugin for Android Studio.  
 
 When you want to output log by logcat, you write like this.
