@@ -2,7 +2,7 @@
     <id>jp.tomorrowkey.intellij.injectlogtag</id>
     <name>Inject LOG_TAG Plugin</name>
     <version>1.0.1</version>
-    <vendor email="tomorrowkey@gmail.com" url="https://github.com/tomorrowkey/InjectLogTag">tomorrowkey
+    <vendor email="tomorrowkey@gmail.com" url="https://github.com/tomorrowkey/InjectLogTagPlugin">tomorrowkey
     </vendor>
 
     <description><![CDATA[
